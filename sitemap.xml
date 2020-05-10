@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sabatinigiacomoaba.github.io/authors/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://sabatinigiacomoaba.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://sabatinigiacomoaba.github.io/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://sabatinigiacomoaba.github.io/series/</loc>
+    <loc>/series/</loc>
   </url>
   
   <url>
-    <loc>https://sabatinigiacomoaba.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
