@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 09 May 2020 16:16:15 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>basics</title>
+      <link>/categories/basics/</link>
+      <pubDate>Sat, 09 May 2020 16:16:15 +0200</pubDate>
+      
+      <guid>/categories/basics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
+      <link>/categories/tutorials/</link>
+      <pubDate>Sat, 09 May 2020 14:23:33 +0200</pubDate>
+      
+      <guid>/categories/tutorials/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
